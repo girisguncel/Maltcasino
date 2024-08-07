@@ -20,7 +20,7 @@
         Maltcasino'in güncel adresiyle yeni giriş ve bonus fırsatlarını kaçırmayın. Güvenilir bahis ve casino deneyimi için Maltcasino'e katılın. Yeni adres bilgileri burada!
     </p>
     <p>
-        <img src="https://pbs.twimg.com/profile_images/1609537641682182152/rwWFRR2M_400x400.jpg" alt="Profile Image">
+        <img src="https://pbs.twimg.com/profile_images/1670013154015821828/Lb5yJbJe_200x200.png" alt="Profile Image">
     </p>
 </body>
 </html>
